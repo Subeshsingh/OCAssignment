@@ -1,0 +1,30 @@
+.expertCard{
+    border: none !important;
+    overflow: hidden;
+    box-shadow: none;
+    width: 100% !important;
+}
+.card-img-top{
+    width: 100% !important;
+    height: 120px !important;
+    border-radius: 1rem;
+    border: 2px solid white;
+}
+.imageWrapper{
+    margin: auto;
+    border-radius: 1rem;
+    max-width: 140px;
+    overflow: hidden;
+    box-shadow:2px 2px 7px rgba(0,0,0,0.5);
+}
+.cardText{
+    text-align: center;
+    margin-top: .5rem;
+}
+.nameText{
+    color: cadetblue !important;
+}
+.degreText{
+    font-size: 12px;
+    color: chocolate !important;
+}
